@@ -18,3 +18,12 @@ so se tiver em modo "public"
 questao 5 = o que e  v c s ?
 
 software de controle de versao
+
+questao 6 = o que e branch ?
+
+ramificação de um repositório.
+
+questao 7 = o que e pull request ?
+
+solicitaçao de atualizaçao do codigo, permitem que você informe outras pessoas sobre as
+alterações das quais você fez push para um branch em um repositório no GitHub.
