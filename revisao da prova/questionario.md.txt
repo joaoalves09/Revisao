@@ -9,4 +9,4 @@ R qualquer linguagem, nao ha restricao quanto a isso.
 
 questao 3 = o que e um repositorio ?
 
-é a pasta onde será guardada os arquivos do projeto.
+é a pasta onde será guardada os arquivos do projeto..
