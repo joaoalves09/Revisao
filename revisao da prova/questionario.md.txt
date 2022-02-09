@@ -27,3 +27,11 @@ questao 7 = o que e pull request ?
 
 solicitaçao de atualizaçao do codigo, permitem que você informe outras pessoas sobre as
 alterações das quais você fez push para um branch em um repositório no GitHub.
+
+questão 8 = O que é fork ?
+
+Copiar um repositorio de um perfil e clonar para o meu !.
+ 
+questao 9 = o que e clone ?
+
+clonar um repositório remoto para um repositório local.
