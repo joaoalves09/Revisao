@@ -10,3 +10,11 @@ R qualquer linguagem, nao ha restricao quanto a isso.
 questao 3 = o que e um repositorio ?
 
 é a pasta onde será guardada os arquivos do projeto..
+
+questao 4 = os codigos que colocam no git hub estaram sempre disponiveis a todos os usuarios da web ?
+
+so se tiver em modo "public"
+
+questao 5 = o que e  v c s ?
+
+software de controle de versao
