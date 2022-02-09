@@ -6,3 +6,7 @@ R é a prática de rastrear e gerenciar as alterações em um código de softwar
 questao 2 = quais linguagens posso utilizar quando uso o git hub ?
 
 R qualquer linguagem, nao ha restricao quanto a isso.
+
+questao 3 = o que e um repositorio ?
+
+é a pasta onde será guardada os arquivos do projeto.
