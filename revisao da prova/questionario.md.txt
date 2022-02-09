@@ -1,0 +1,6 @@
+Questao 1 = Para que serve o softer de controle de versao ?
+
+R é a prática de rastrear e gerenciar as alterações em um código de software.
+
+
+questao 2 = quais linguagens posso utilizar quando uso o git hub ?
